@@ -20,19 +20,26 @@ When we started printing the files on the bamboo.. we had our first regret. We p
 3. Tighten the screws under the green part that slides on the telescopic rails.
 
 ## Initial Software setup
-1. Once plugged in, the device should show up in device manager as a human interface device, specifically a joystick. Do the config for the joystick and choose the axis properly.
+1. Once plugged in, the device should show up in Device Manager as a human interface device, specifically a joystick. Do the config for the joystick and choose the axis properly.
 2. We don't have a rudder channel, so u can use two keys for now. Or be an expert pilot like me 😜.
 3. On MSFS, map the channels to the respective axis and set expo settings (optional).
 4. enjoy!
 
+## CAD issues 
+1. The throttle and mixture knobs base isn't designed well.. better to redesign
+2. Use the adapter for rods given as a separate file from the one inside the throttle+mix file.
+3. Try to use exact screws wherever mentioned (Sanath fucking shet just didn't go according to my design)
+4. Don't print everything randomly. I have uploaded CAD files with all parts (some are unnecessary and were used for design reference). Check what parts are necessary and then print accordingly. The CAD files also have their edit history with them. Make the best use of them to suit your hardware.
+
 ##  Troubleshooting
 1. Something broke?? go kys
-2. No response usually means loose wires or youve fried the board.
+2. No response usually means loose wires or you've fried the board.
 3. Not detecting as a HID device - figure out the driver stuff.
 
 ## Requests:
 1. Build rudder pedals.
 2. Don't break it, the setup is kinda delicate.
+3. Think of meaningful upgrades.
 
 ## Contributing:
 To contribute, make sure to open a branch first, commit there, and then we will review it and merge your pull request.
