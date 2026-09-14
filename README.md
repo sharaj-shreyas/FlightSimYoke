@@ -35,6 +35,7 @@ When we started printing the files on the bamboo.. we had our first regret. We p
 1. Something broke?? go kys
 2. No response usually means loose wires or you've fried the board.
 3. Not detecting as a HID device - figure out the driver stuff.
+4. If any axis moves backwards in Windows USB Game Controllers (joy.cpl) or MSFS/X-Plane, invert the read value in code (like - FlightYoke.setYAxis(1023 - pitchVal);).
 
 ## Requests:
 1. Build rudder pedals.
