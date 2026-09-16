@@ -27,7 +27,7 @@ When we started printing the files on the bamboo.. we had our first regret. We p
 
 ## CAD issues 
 1. The throttle and mixture knobs base isn't designed well.. better to redesign
-2. Use the adapter for rods given as a separate file from the one inside the throttle+mix file.
+2. Use the adapter for rods given as a separate file (not the one in the throttle+mix file).
 3. Try to use exact screws wherever mentioned (Sanath fucking shet just didn't go according to my design)
 4. Don't print everything randomly. I have uploaded CAD files with all parts (some are unnecessary and were used for design reference). Check what parts are necessary and then print accordingly. The CAD files also have their edit history with them. Make the best use of them to suit your hardware.
 
